@@ -1,1 +1,7 @@
-
+<bug_report>
+  <Heading>The transition icon in the telegram on the main page does not work</Heading>
+  <Step_1>Open the website https://sportsteel.ru/</Step_1>
+  <Step_2>Click icon telegram</Step_2>
+  <Expected_result>Telegram page is opened</Expected_result>
+  <Actual_result>The page does not open</Actual_result>
+</bug_report>
